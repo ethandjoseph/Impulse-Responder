@@ -7,6 +7,6 @@
 JUCE 8 project consisting of
 1. JUCE Convolution
 
-## [Release](https://github.com/ethandjoseph/Bandpass-Filter/releases)
+## [Release](https://github.com/ethandjoseph/Impulse-Responder/releases)
 - VST3
 - Windows 64 bit
