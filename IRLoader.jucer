@@ -16,6 +16,7 @@
       <FILE id="vYTLuQ" name="PluginEditor.cpp" compile="1" resource="0"
             file="Source/PluginEditor.cpp"/>
       <FILE id="K7z9h5" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+      <FILE id="gUV2rq" name="churchIR.wav" compile="0" resource="1" file="Source/churchIR.wav"/>
     </GROUP>
   </MAINGROUP>
   <MODULES>
