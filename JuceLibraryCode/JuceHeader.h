@@ -43,7 +43,7 @@
 namespace ProjectInfo
 {
     const char* const  projectName    = "IRLoader";
-    const char* const  companyName    = "Owninstrument";
+    const char* const  companyName    = "Earth Mover DSP";
     const char* const  versionString  = "1.0.0";
     const int          versionNumber  = 0x10000;
 }

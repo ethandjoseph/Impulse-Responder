@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="eUOT5c" name="IRLoader" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="Owninstrument"
-              pluginFormats="buildStandalone,buildVST3">
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="Earth Mover DSP"
+              pluginFormats="buildAAX,buildAU,buildAUv3,buildLV2,buildStandalone,buildVST3"
+              pluginAAXCategory="8192" lv2Uri="http://earthmoverdsp.com/plugins/IRLoader">
   <MAINGROUP id="k1ZqxH" name="IRLoader">
     <GROUP id="{63B7152E-B839-E6CD-D0D8-618D35223081}" name="Source">
       <FILE id="xg6ttG" name="largeRoom.wav" compile="0" resource="1" file="Source/largeRoom.wav"/>
